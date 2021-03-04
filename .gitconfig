@@ -1,5 +1,5 @@
 [core]
-	editor = \"C:\\Users\\jbtin\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+	editor = code --wait
 [user]
 	email = 25378699+JTinglof@users.noreply.github.com
 	name = Joseph Tinglof
